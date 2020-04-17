@@ -1,0 +1,4 @@
+com/huafanfan/service/PicService.class
+com/huafanfan/controller/PicController.class
+com/huafanfan/mapper/PicMapper.class
+com/huafanfan/service/impl/PicServiceImpl.class
