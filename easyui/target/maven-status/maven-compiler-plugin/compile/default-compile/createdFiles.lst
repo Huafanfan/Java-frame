@@ -1,0 +1,17 @@
+com\bjsxt\service\impl\UsersServiceImpl.class
+com\bjsxt\controller\UsersController.class
+com\bjsxt\pojo\EasyUIDatagrid.class
+com\bjsxt\mapper\MenuMapper.class
+com\bjsxt\service\UsersService.class
+com\bjsxt\service\impl\MenuServiceImpl.class
+com\bjsxt\service\RoleService.class
+com\bjsxt\mapper\UsersMapper.class
+com\bjsxt\pojo\Menu.class
+com\bjsxt\service\MenuService.class
+com\bjsxt\mapper\RoleMapper.class
+com\bjsxt\service\impl\RoleServiceImpl.class
+com\bjsxt\pojo\Users.class
+com\bjsxt\pojo\Role.class
+com\bjsxt\pojo\Attributes.class
+com\bjsxt\controller\MenuController.class
+com\bjsxt\controller\RoleController.class
